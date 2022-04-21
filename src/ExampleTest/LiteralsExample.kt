@@ -1,0 +1,5 @@
+package ExampleTest
+
+class LiteralsExample {
+    
+}
